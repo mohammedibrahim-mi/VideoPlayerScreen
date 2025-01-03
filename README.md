@@ -1,2 +1,4 @@
 # VideoPlayerScreen
-It play video in screen with volume button , we can turn On and Off. Video load from assets or from web link.
+The application includes functionality to play a video on-screen, featuring a volume toggle button to enable or disable audio. The video can be loaded either from local assets or through a web URL. The implementation utilizes the video_player package from pub.dev.
+
+Package link : https://pub.dev/packages/video_player
